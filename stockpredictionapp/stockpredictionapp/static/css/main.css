@@ -1,0 +1,25 @@
+.text-primary {
+    color: #004BA8 !important;
+  }
+
+  a {
+    color: #004BA8 !important;
+  }
+
+  .btn-color{
+    background-color: #4A525A;
+    border-color: #4A525A !important;
+  }
+
+  body {
+    color : #ffffff;
+  }
+
+  .sidebar-color {
+    color : #24272B;
+  }
+
+  .btn-primary-color {
+    background-color: #005ed0;
+    border-color: #005ed0 !important;
+  }
