@@ -1,7 +1,7 @@
 # StockSavvyAI-Django-Web-Application
 Reliable Stock Price Prediction and Analysis with StockPredictHQ web service
 
-<img src=".stockpredictionapp/stockpredictionapp/static/image/Stock.png" alt="StockSavvyAI - Stock Market Prediction Web Application">
+<img src="stockpredictionapp/stockpredictionapp/static/image/Stock.png" alt="StockSavvyAI - Stock Market Prediction Web Application">
 
 ## Introduction
 <p>
