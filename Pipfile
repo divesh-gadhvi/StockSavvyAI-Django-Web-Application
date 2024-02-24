@@ -11,6 +11,7 @@ scikit-learn = "*"
 tensorflow = "*"
 validate-email = "*"
 python-dotenv = "*"
+pipreqs = "*"
 
 [dev-packages]
 
