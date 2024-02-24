@@ -16,8 +16,6 @@ StockSavvyAI is a web application designed to provide users with stock market pr
 
 ## Technology Stack
 
-## Technology Stack
-
 ### Languages
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white): The markup language used for structuring web pages.
